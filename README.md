@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋.. Nice so see that you are interested in my GitHub Profile 😄
+
+I am young Doctorate from Delft University of Technology and is currently working for Belgium Research Institute VITO. 
+
+I work a lot with optimization method for engineering/scientific problems. More specifically, with respect to shape, topology optimization and control theory. If you are interested in such topic I have some pretty interesting repositories for you.
+
+I am currently exploring Multi-disciplinary design optimization strategies, learning-method for CFD-based optimization and multi-fidelity optimization. If any of these topics is of you interest please get in touch and maybe we can collaborate.
 
 <!--
 **NAnand-TUD/NAnand-TUD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
