@@ -6,6 +6,9 @@ I work a lot with optimization method for engineering/scientific problems. More 
 
 I am currently exploring Multi-disciplinary design optimization strategies, learning-method for CFD-based optimization and multi-fidelity optimization. If any of these topics is of you interest please get in touch and maybe we can collaborate.
 
+--
+### Projects
+
 <!--
 **NAnand-TUD/NAnand-TUD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
