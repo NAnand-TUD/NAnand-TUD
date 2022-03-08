@@ -7,7 +7,7 @@ I work a lot with optimization method for engineering/scientific problems. More 
 I am currently exploring multi-disciplinary design optimization strategies, learning-method for CFD-based optimization and multi-fidelity optimization. If any of these topics is of you interest please get in touch and maybe we can collaborate.
 
 ---
-### Software projects
+### Software projects..
 #### Developer
 [ParaBlade](http://https://github.com/NAnand-TUD/parablade "ParaBlade") --> A python based 3D turbomachinery blade parametrization code.  
 [openMOC](https://github.com/NAnand-TUD/open-moc) --> Method of characterisitcs code to design supersonic vanes and rotors.
@@ -16,7 +16,7 @@ I am currently exploring multi-disciplinary design optimization strategies, lear
 [SU2](https://github.com/su2code/SU2) --> open-source CFD tool, (contribution: turbomachinery optimization)
 
 ---
-### Publications
+### Publications..
 
 [1] Assessment of FFD and CAD-based shape parametrization methods for adjoint-based turbomachinery shape optimization. N Anand, S Vitale, M Pini, P Colonna, Global Power and Propulsion Society, Montreal, Canada., 10.5281/zenodo.1344595, 2018  
 
@@ -31,5 +31,5 @@ I am currently exploring multi-disciplinary design optimization strategies, lear
 [6] Design guidelines for supersonic stators operating with fluids made of complex molecules, N Anand, P Colonna, M Pini, Energy 203, 117698, 2021.
 
 ---
-### Socials
+### Socials..
 LinkedIn : www.linkedin.com/in/nitishanand/
